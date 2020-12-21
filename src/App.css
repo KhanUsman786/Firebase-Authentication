@@ -6,6 +6,28 @@
   height: 40vmin;
   pointer-events: none;
 }
+img {
+  border: solid 2px #64ffda;
+}
+.welcome {
+  color: rgb(255, 0, 38);
+  padding-right: 8px;
+}
+h1 {
+  color: rgb(8, 59, 92);
+}
+p {
+  color: rgb(34, 77, 104);
+}
+button {
+  color: lightslategrey;
+  background-color: white;
+  margin: 15px;
+  border: solid 3px #64ffda;
+  border-radius: 12px;
+  cursor: pointer;
+  padding: 7px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
