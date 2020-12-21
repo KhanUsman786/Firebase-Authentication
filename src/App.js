@@ -4,8 +4,8 @@ import firebase from 'firebase'
 import StyledFirebaseAuth from 'react-firebaseui/StyledFirebaseAuth'
 
 firebase.initializeApp({
-  apiKey: "AIzaSyDWCRxIqeoLu5tLXVfEXiA4jSIa12D9vag",
-  authDomain: "fir-auth-ff5cb.firebaseapp.com"
+  apiKey: "add your api key",
+  authDomain: "add your auh domain"
 })
 
 
