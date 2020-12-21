@@ -1,3 +1,11 @@
+Firebase Social Authentication
+
+Where a user can log in through their social app such as github,facebook,google,twitter etc
+
+app demo : https://myauthproject.netlify.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
